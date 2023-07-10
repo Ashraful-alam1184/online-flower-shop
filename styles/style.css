@@ -14,3 +14,6 @@
     height: 850px;
     flex-shrink: 0;
 }
+.banner-content{
+    margin-top: 200px;
+}
