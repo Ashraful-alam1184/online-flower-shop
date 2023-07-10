@@ -1,0 +1,16 @@
+
+.banner{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header{
+    background-color: antiquewhite;
+    background-position: bottom right;
+    background-image: url('../image/pngwing\ 10.png');
+    background-repeat: no-repeat;
+    width: 1672px;
+    height: 850px;
+    flex-shrink: 0;
+}
